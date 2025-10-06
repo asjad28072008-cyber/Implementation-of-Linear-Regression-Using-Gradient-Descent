@@ -75,10 +75,17 @@ Value of X
 <img width="153" height="408" alt="Screenshot 2025-10-06 093959" src="https://github.com/user-attachments/assets/ce4da4a3-d9a7-4115-9ed8-c50aff3b6f43" />
 
 Value of X1_scaled
+
+
+
+
+
 <img width="201" height="410" alt="Screenshot 2025-10-06 094604" src="https://github.com/user-attachments/assets/dab7afe0-c9d3-448c-877f-91befe5261fd" />
 
 
 predicted value
+
+
 
 <img width="510" height="73" alt="Screenshot 2025-10-06 094130" src="https://github.com/user-attachments/assets/ad378919-f4e8-4a2d-95b9-66514fed55be" />
 
